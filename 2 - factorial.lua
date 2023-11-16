@@ -6,7 +6,7 @@ function Fact (n)
     return n * Fact(n-1)
   end
 end
-      
+
 print("enter a number:")
 local a = io.read("*number") -- read a number
 print(Fact(a))
