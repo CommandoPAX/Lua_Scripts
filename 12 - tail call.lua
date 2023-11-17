@@ -28,3 +28,5 @@ end
 function room4 ()
     print("congratulations!")
 end
+
+room1()
